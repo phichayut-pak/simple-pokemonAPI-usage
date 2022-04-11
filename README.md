@@ -1,24 +1,6 @@
-# pokemon-api
+# Pokemon API with Vue.js
 
-## Project setup
-```
-npm install
-```
+A website using an api from PokeAPI and Vue.js
+Demo website: https://pokemon-api-usage.netlify.app/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![image](https://user-images.githubusercontent.com/22463788/162698926-14ad6dbf-2b48-4575-9f34-fa8fca42f05e.png)
